@@ -1,0 +1,20 @@
+{
+    "name":"Price List",
+    "short_name": "Price List",
+    "start_url":".",
+    "background_color": "#ff0000",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons":[
+        {
+            "src": "iqbalLog515.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "iqbalLog 160.png",
+            "sizes": "160x160",
+            "type": "image/png"
+        }
+    ]
+}

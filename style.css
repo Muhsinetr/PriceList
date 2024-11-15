@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bd{
+    border: 1px solid red;
+}
+.wrapper{
+    border: 1px dotted black;
+    width: 350px;
+    height: 98dvh;
+    overflow: scroll;
+}
+.wrapper::-webkit-scrollbar{
+    display: none;
+}
+.items{
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+.groups{
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 750ms;
+}
+.grpHd{
+    overflow: hidden;
+}
+.grpSh{
+    grid-template-rows: 1fr;
+}
+.clickBg{
+    background-color: #ededed;
+}
+
+/* .hidden,.hidden1 {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-out, opacity 0.5s ease-out;
+} */
+
+/* .visible, .visible1{
+    max-height: 500px; 
+    opacity: 1;
+} */
+.header{
+    height: 40px;
+    position: relative;
+    padding-left: 25px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.header div{
+    height: 30px;
+    aspect-ratio: 1;
+    background-image: url(down-button.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    right: 20px;
+    top: 4px;
+}
+.itmnm-head{
+    width: 100%;
+    height: 35px;
+    padding: 5px 0px;
+    padding-left: 45px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    border-bottom: 1px dotted black;
+    transition: padding-left 1s;
+}
+.item-change{
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: underline;
+    padding-left: 10px;
+    border-bottom: none;
+}
+.itmnm-head div{
+    height: 25px;
+    aspect-ratio: 1;
+    background-image: url(down-button.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    right: 20px;
+}
+.item-divs{
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 1000ms;
+}
+.itemHd{
+    overflow: hidden;
+}
+.itemSh{
+    grid-template-rows: 1fr;
+}
+.gpr{
+    color: #002a8b;
+}
+.item-divs fieldset{
+    margin: 5px 10px;
+}
+.item-divs fieldset legend{
+    margin-left: 12px;
+    padding: 5px 10px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #002a8b;
+}
+.item-divs fieldset div{
+    border: 1px dotted rgb(53, 52, 52);
+    padding: 5px 15px;
+    margin: 5px;
+    font-family: sans-serif;
+
+}
+.item-divs fieldset div p:nth-child(1){
+    color: rgb(159 8 8);
+    font-size: larger;
+    font-weight: 700;
+}
+.version{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    padding: 1px 5px;
+    background-color: black;
+    color: white;
+}
