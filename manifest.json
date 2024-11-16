@@ -2,8 +2,8 @@
     "name":"Price List",
     "short_name": "Price List",
     "start_url":".",
-    "background_color": "#ff0000",
-    "theme_color": "#009578",
+    "background_color": "#e3101a",
+    "theme_color": "#e3101a",
     "display": "standalone",
     "icons":[
         {
