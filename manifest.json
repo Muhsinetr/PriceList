@@ -7,12 +7,12 @@
     "display": "standalone",
     "icons":[
         {
-            "src": "iqbalLog515.png",
+            "src": "iqbalLogoN515.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "iqbalLog 160.png",
+            "src": "iqbalLogoN160.png",
             "sizes": "160x160",
             "type": "image/png"
         }
