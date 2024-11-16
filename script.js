@@ -798,7 +798,7 @@ let offerArray = [
     itemGroup: "cooker",
     groupName: "aluminium",
     itemName: "hexagon 3 ltr",
-    Price: 695
+    Price: 750
   },{
     company: "greenchef",
     itemGroup: "cooker",
@@ -949,12 +949,6 @@ let offerArray = [
     groupName: "frypan",
     itemName: "frypan IB med",
     Price: 640
-  },{
-    company: "lisma",
-    itemGroup: "frypan",
-    groupName: "frypan",
-    itemName: "frypan sml",
-    Price: 575
   },{
     company: "lisma",
     itemGroup: "frypan",
@@ -1296,7 +1290,7 @@ let offerArray = [
     itemGroup: "non-stick",
     groupName: "tawa",
     itemName: "tawa 250 3mm",
-    Price: 370
+    Price: 300
   },{
     company: "rasoiya",
     itemGroup: "non-stick",
@@ -1381,6 +1375,12 @@ let offerArray = [
     groupName: "900w",
     itemName: "powermatic pluse",
     Price: 5700
+  },{
+    company: "sujata",
+    itemGroup: "mixi",
+    groupName: "900w",
+    itemName: "powermatic",
+    Price: 4990
   },{
     company: "sujata",
     itemGroup: "mixi",
@@ -1728,13 +1728,13 @@ let offerArray = [
     itemGroup: "rice cooker",
     groupName: "steel",
     itemName: "1 kg",
-    Price: 1690
+    Price: 1550
   },{
     company: "premix",
     itemGroup: "rice cooker",
     groupName: "steel",
     itemName: "1.5 kg",
-    Price: 1800
+    Price: 1690
   },{
     company: "sukanya",
     itemGroup: "cooker",
