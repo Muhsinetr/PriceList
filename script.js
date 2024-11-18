@@ -544,6 +544,18 @@ let offerArray = [
   },{
     company: "butterfly",
     itemGroup: "cooker",
+    groupName: "aluminium",
+    itemName: "STD 10 ltr",
+    Price: 2250
+  },{
+    company: "butterfly",
+    itemGroup: "cooker",
+    groupName: "aluminium",
+    itemName: "STD 5 ltr",
+    Price: 1350
+  },{
+    company: "butterfly",
+    itemGroup: "cooker",
     groupName: "steel",
     itemName: "tezz 5 ltr",
     Price: 3250
@@ -575,7 +587,7 @@ let offerArray = [
     company: "butterfly",
     itemGroup: "gas stove",
     groupName: "glass top",
-    itemName: "treo pluse 2 B",
+    itemName: "duo pluse 2 B",
     Price: 2950
   },{
     company: "butterfly",
@@ -597,6 +609,36 @@ let offerArray = [
     Price: 2600
   },{
     company: "butterfly",
+    itemGroup: "mixi",
+    groupName: "3 jar",
+    itemName: "jubilant 3 jar",
+    Price: 3600
+  },{
+    company: "butterfly",
+    itemGroup: "mixi",
+    groupName: "3 jar",
+    itemName: "rhino 500w 3 jar",
+    Price: 2500
+  },{
+    company: "butterfly",
+    itemGroup: "mixi",
+    groupName: "3 jar",
+    itemName: "stalion 3 jar",
+    Price: 3950
+  },{
+    company: "butterfly",
+    itemGroup: "mixi",
+    groupName: "3 jar",
+    itemName: "bhima 3 1000w",
+    Price: 5300
+  },{
+    company: "butterfly",
+    itemGroup: "non-stick",
+    groupName: "appachatty",
+    itemName: "appachatty",
+    Price: 650
+  },{
+    company: "butterfly",
     itemGroup: "non-stick",
     groupName: "tawa",
     itemName: "concave tawa 280",
@@ -613,6 +655,12 @@ let offerArray = [
     groupName: "grinder",
     itemName: "flora pluse 2.0",
     Price: 4600
+  },{
+    company: "L L M",
+    itemGroup: "Rice cooker",
+    groupName: "steel",
+    itemName: "Rice cooker 1.5kg",
+    Price: 2890
   },{
     company: "gabry",
     itemGroup: "biriyani Pot",
@@ -637,6 +685,12 @@ let offerArray = [
     groupName: "biriyani Pot",
     itemName: "8 Ltr",
     Price: 1750
+  },{
+    company: "gabry",
+    itemGroup: "biriyani Pot",
+    groupName: "biriyani Pot",
+    itemName: "6 Ltr",
+    Price: 1650
   },{
     company: "gabry",
     itemGroup: "biriyani Pot",
@@ -833,8 +887,20 @@ let offerArray = [
     company: "greenchef",
     itemGroup: "gas stove",
     groupName: "steel",
+    itemName: "economy 2B",
+    Price: 1650
+  },{
+    company: "greenchef",
+    itemGroup: "gas stove",
+    groupName: "steel",
     itemName: "super slim 2B",
     Price: 1600
+  },{
+    company: "greenchef",
+    itemGroup: "gas stove",
+    groupName: "steel",
+    itemName: "economy pro 2b",
+    Price: 2100
   },{
     company: "greenchef",
     itemGroup: "gas stove",
@@ -891,6 +957,24 @@ let offerArray = [
     Price: 2650
   },{
     company: "havells",
+    itemGroup: "fan",
+    groupName: "ceiling fan",
+    itemName: "super speed",
+    Price: 2100
+  },{
+    company: "havells",
+    itemGroup: "fan",
+    groupName: "ceiling fan",
+    itemName: "BLDC eficiency dx",
+    Price: 3100
+  },{
+    company: "havells",
+    itemGroup: "fan",
+    groupName: "wall fan",
+    itemName: "swing off",
+    Price: 2750
+  },{
+    company: "havells",
     itemGroup: "iron box",
     groupName: "iron box",
     itemName: "Aquilla amber 1000w",
@@ -919,6 +1003,24 @@ let offerArray = [
     groupName: "mixi",
     itemName: "eso 3 jar",
     Price: 3990
+  },{
+    company: "havells",
+    itemGroup: "mixi",
+    groupName: "mixi",
+    itemName: "hexo 3 jar 1000w",
+    Price: 5900
+  },{
+    company: "havells",
+    itemGroup: "mixi",
+    groupName: "mixi",
+    itemName: "hexo 4 jar 1000w",
+    Price: 6800
+  },{
+    company: "havells",
+    itemGroup: "mixi",
+    groupName: "mixi",
+    itemName: "zello 750",
+    Price: 3800
   },{
     company: "havells",
     itemGroup: "mixi",
@@ -1077,6 +1179,18 @@ let offerArray = [
     Price: 12400
   },{
     company: "prestige",
+    itemGroup: "gas stove",
+    groupName: "glass",
+    itemName: "duo 3B",
+    Price: 7900
+  },{
+    company: "prestige",
+    itemGroup: "nonstick",
+    groupName: "nonstick",
+    itemName: "appachatty",
+    Price: 850
+  },{
+    company: "prestige",
     itemGroup: "nonstick",
     groupName: "nonstick",
     itemName: "3pcs set BYK grnt",
@@ -1097,8 +1211,26 @@ let offerArray = [
     company: "prestige",
     itemGroup: "cooker",
     groupName: "aluminium",
+    itemName: "3 ltr popular",
+    Price: 1300
+  },{
+    company: "prestige",
+    itemGroup: "cooker",
+    groupName: "aluminium",
     itemName: "5 ltr swatch",
     Price: 2050 
+  },{
+    company: "prestige",
+    itemGroup: "cooker",
+    groupName: "aluminium",
+    itemName: "5 ltr popular",
+    Price: 1790
+  },{
+    company: "prestige",
+    itemGroup: "cooker",
+    groupName: "aluminium",
+    itemName: "7.5 ltr popular",
+    Price: 2950
   },{
     company: "prestige",
     itemGroup: "cooker",
@@ -1126,9 +1258,21 @@ let offerArray = [
   },{
     company: "qbee",
     itemGroup: "gas stove",
+    groupName: "steel",
+    itemName: "max",
+    Price: 1900
+  },{
+    company: "qbee",
+    itemGroup: "gas stove",
     groupName: "glass top",
     itemName: "2B mini/nano",
     Price: 1500
+  },{
+    company: "qbee",
+    itemGroup: "gas stove",
+    groupName: "glass top",
+    itemName: "Big",
+    Price: 2400
   },{
     company: "qbee",
     itemGroup: "gas stove",
@@ -1300,6 +1444,12 @@ let offerArray = [
   },{
     company: "rasoiya",
     itemGroup: "non-stick",
+    groupName: "3pcs set 2.6MM",
+    itemName: "3pcs Set",
+    Price: 1100
+  },{
+    company: "rasoiya",
+    itemGroup: "non-stick",
     groupName: "kadayi",
     itemName: "kadayi 150 mini",
     Price: 249
@@ -1339,6 +1489,12 @@ let offerArray = [
     groupName: "castrol",
     itemName: "SS 4000ml",
     Price: 825
+  },{
+    company: "rasoiya",
+    itemGroup: "castrol",
+    groupName: "castrol",
+    itemName: "SS 5000ml",
+    Price: 895
   },{
     company: "rasoiya",
     itemGroup: "Gas stove",
@@ -1505,6 +1661,12 @@ let offerArray = [
     company: "vguard",
     itemGroup: "mixi",
     groupName: "mixi",
+    itemName: "velocity 500w",
+    Price: 2700
+  },{
+    company: "vguard",
+    itemGroup: "mixi",
+    groupName: "mixi",
     itemName: "insignia 750w",
     Price: 5150
   },{
@@ -1543,6 +1705,12 @@ let offerArray = [
     groupName: "ceiling fan",
     itemName: "dreams pluse 48",
     Price: 1790
+  },{
+    company: "vguard",
+    itemGroup: "fan",
+    groupName: "ceiling fan",
+    itemName: "wilovx 48",
+    Price: 1750
   },{
     company: "vguard",
     itemGroup: "fan",
