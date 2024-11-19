@@ -1,1915 +1,1915 @@
 {
-"company":"impex",
-"itemGroup":"airfryer",
-"groupName":"airfryer",
-"itemName":"airfryersmart",
-"Price":3490
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"bhiriyanipot",
-"itemName":"10ltrdum",
-"Price":2290
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"bhiriyanipot",
-"itemName":"12ltrdum",
-"Price":2450
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"bhiriyanipot",
-"itemName":"royalRCS42pcs",
-"Price":2190
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"tawa",
-"itemName":"concaveICTP28",
-"Price":798
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"tawa",
-"itemName":"diecastruby27",
-"Price":675
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"tawa",
-"itemName":"panITP2620",
-"Price":650
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"tawa",
-"itemName":"SSSTP24Shine",
-"Price":950
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"frypan",
-"itemName":"diecastruby24",
-"Price":690
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"frypan",
-"itemName":"SSSFP24shine",
-"Price":990
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"kadayi",
-"itemName":"SSSKP24shine",
-"Price":1490
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"kuzhiyappam",
-"itemName":"kuzhiyappam9",
-"Price":695
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"milkpan",
-"itemName":"milkpan1875",
-"Price":675
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"non-stickset",
-"itemName":"2pcssetTF",
-"Price":790
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"non-stickset",
-"itemName":"3pcssetKTF444",
-"Price":1390
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"non-stickset",
-"itemName":"3pcssetNV444",
-"Price":1250
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"non-stickset",
-"itemName":"3pcssetRKTF24",
-"Price":1600
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"non-stickset",
-"itemName":"3pcssetROYAL",
-"Price":1590
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"non-stickset",
-"itemName":"FTA4603pcsset",
-"Price":1295
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"wokpan",
-"itemName":"wokpanIB-IWP28",
-"Price":1150
-}${
-"company":"impex",
-"itemGroup":"non-stick",
-"groupName":"sausepan",
-"itemName":"sausepanBpotshine24",
-"Price":1650
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"Aluminium",
-"itemName":"norma10ltr",
-"Price":1890
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"Aluminium",
-"itemName":"norma5ltr",
-"Price":990
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"Aluminium",
-"itemName":"norma3ltr",
-"Price":790
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"IB",
-"itemName":"eco2",
-"Price":850
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"IB",
-"itemName":"eco3",
-"Price":850
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"IB",
-"itemName":"eco5",
-"Price":1100
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"IB",
-"itemName":"eco7",
-"Price":1790
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"IB",
-"itemName":"eco2+3+5",
-"Price":1990
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"ep2",
-"Price":1190
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"ep3",
-"Price":1250
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"ep5",
-"Price":1650
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"smart",
-"itemName":"smart2.5ltr",
-"Price":1395
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"smart",
-"itemName":"smart4.5ltr",
-"Price":1950
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"smart",
-"itemName":"smartnorma2.5ltr",
-"Price":950
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"smart",
-"itemName":"smartnorma4.5ltr",
-"Price":1200
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"black",
-"itemName":"HA2.5ltrDripless",
-"Price":1190
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"black",
-"itemName":"HA4.5ltrDripless",
-"Price":1600
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"delight",
-"itemName":"delight10",
-"Price":1850
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"delight",
-"itemName":"delight7",
-"Price":1695
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"delight",
-"itemName":"delight5",
-"Price":1150
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"delight",
-"itemName":"delight3",
-"Price":890
-}${
-"company":"impex",
-"itemGroup":"cooker",
-"groupName":"delight",
-"itemName":"delight5+3",
-"Price":1890
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"enlight2B",
-"Price":250
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"IGS13B",
-"Price":3550
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"aspiraador2B",
-"Price":2850
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"fiera2B",
-"Price":3250
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"fiera3B",
-"Price":4150
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"glaze2B",
-"Price":3990
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"glaze3B",
-"Price":4950
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"glaze3Bregular",
-"Price":4650
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"specta2belite",
-"Price":2900
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"specta2bNEO",
-"Price":2350
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"specta3BNEO",
-"Price":3100
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"welfire2B",
-"Price":1900
-}${
-"company":"impex",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"aira2Bframeless",
-"Price":4750
-}${
-"company":"impex",
-"itemGroup":"inductioncooker",
-"groupName":"inductioncooker",
-"itemName":"omegaH2ASL220",
-"Price":2950
-}${
-"company":"impex",
-"itemGroup":"inductioncooker",
-"groupName":"inductioncooker",
-"itemName":"omegaH6ADX",
-"Price":2250
-}${
-"company":"impex",
-"itemGroup":"kettle",
-"groupName":"kettle",
-"itemName":"kettle1001c",
-"Price":995
-}${
-"company":"impex",
-"itemGroup":"kettle",
-"groupName":"kettle",
-"itemName":"kettle1501",
-"Price":650
-}${
-"company":"impex",
-"itemGroup":"kettle",
-"groupName":"kettle",
-"itemName":"kettleGK18",
-"Price":1395
-}${
-"company":"impex",
-"itemGroup":"kettle",
-"groupName":"kettle",
-"itemName":"kettleJB15Black",
-"Price":1250
-}${
-"company":"impex",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"ceilingfanAeroAlora",
-"Price":1790
-}${
-"company":"impex",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"ceilingfanBLDCatom28",
-"Price":3150
-}${
-"company":"impex",
-"itemGroup":"fan",
-"groupName":"wallfan",
-"itemName":"oreon",
-"Price":1990
-}${
-"company":"impex",
-"itemGroup":"fan",
-"groupName":"wallfan",
-"itemName":"zolo1969",
-"Price":2250
-}${
-"company":"impex",
-"itemGroup":"ricecooker",
-"groupName":"ricecooker",
-"itemName":"ss1kg",
-"Price":1900
-}${
-"company":"impex",
-"itemGroup":"ricecooker",
-"groupName":"ricecooker",
-"itemName":"ss1.5kg",
-"Price":2250
-}${
-"company":"impex",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"grindDQ600",
-"Price":2400
-}${
-"company":"impex",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"Panter800w",
-"Price":3600
-}${
-"company":"impex",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"starmix750w",
-"Price":2500
-}${
-"company":"impex",
-"itemGroup":"oven",
-"groupName":"oven",
-"itemName":"OTG19ltr+btr",
-"Price":4700
-}${
-"company":"impex",
-"itemGroup":"oven",
-"groupName":"oven",
-"itemName":"OTG28ltr",
-"Price":6100
-}${
-"company":"impex",
-"itemGroup":"magicpan",
-"groupName":"magicpan",
-"itemName":"magicpanws18",
-"Price":1990
-}${
-"company":"amogh",
-"itemGroup":"ricecooker",
-"groupName":"ricecooker",
-"itemName":"steel1kg",
-"Price":1590
-}${
-"company":"amogh",
-"itemGroup":"ricecooker",
-"groupName":"ricecooker",
-"itemName":"steel1.5kg",
-"Price":1790
-}${
-"company":"amogh",
-"itemGroup":"ricecooker",
-"groupName":"ricecooker",
-"itemName":"steel2kg",
-"Price":2690
-}${
-"company":"bPL",
-"itemGroup":"kettle",
-"groupName":"kettle",
-"itemName":"kettle1.800118",
-"Price":850
-}${
-"company":"bPL",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"3jar500w46150+c",
-"Price":2250
-}${
-"company":"bPL",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"3jar750w30975+c",
-"Price":3600
-}${
-"company":"bPL",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"4jar750w45275+c",
-"Price":3990
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"blueline5ltr",
-"Price":2750
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"blueline7.5",
-"Price":3250
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"blueline10ltr",
-"Price":1450
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"cute2ltrss",
-"Price":1795
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"cute3ltrss",
-"Price":1990
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"cute5ltr",
-"Price":2350
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"tezz2ltr",
-"Price":2250
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"tezz3ltr",
-"Price":2490
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"STD3ltr",
-"Price":950
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"STD10ltr",
-"Price":2250
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"STD5ltr",
-"Price":1350
-}${
-"company":"butterfly",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"tezz5ltr",
-"Price":3250
-}${
-"company":"butterfly",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"Ace",
-"Price":2750
-}${
-"company":"butterfly",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"rhino",
-"Price":2150
-}${
-"company":"butterfly",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"treo3B",
-"Price":3990
-}${
-"company":"butterfly",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"treopluse3B",
-"Price":3990
-}${
-"company":"butterfly",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"duopluse2B",
-"Price":2950
-}${
-"company":"butterfly",
-"itemGroup":"mixi",
-"groupName":"3jar",
-"itemName":"cyclone3jar",
-"Price":3850
-}${
-"company":"butterfly",
-"itemGroup":"mixi",
-"groupName":"3jar",
-"itemName":"pestle3jar",
-"Price":3400
-}${
-"company":"butterfly",
-"itemGroup":"mixi",
-"groupName":"3jar",
-"itemName":"rubyelite3jar",
-"Price":2600
-}${
-"company":"butterfly",
-"itemGroup":"mixi",
-"groupName":"3jar",
-"itemName":"jubilant3jar",
-"Price":3600
-}${
-"company":"butterfly",
-"itemGroup":"mixi",
-"groupName":"3jar",
-"itemName":"rhino500w3jar",
-"Price":2500
-}${
-"company":"butterfly",
-"itemGroup":"mixi",
-"groupName":"3jar",
-"itemName":"stalion3jar",
-"Price":3950
-}${
-"company":"butterfly",
-"itemGroup":"mixi",
-"groupName":"3jar",
-"itemName":"bhima31000w",
-"Price":5300
-}${
-"company":"butterfly",
-"itemGroup":"non-stick",
-"groupName":"appachatty",
-"itemName":"appachatty",
-"Price":650
-}${
-"company":"butterfly",
-"itemGroup":"non-stick",
-"groupName":"tawa",
-"itemName":"concavetawa280",
-"Price":985
-}${
-"company":"butterfly",
-"itemGroup":"non-stick",
-"groupName":"tawa",
-"itemName":"concavetawa300",
-"Price":1075
-}${
-"company":"butterfly",
-"itemGroup":"grinder",
-"groupName":"grinder",
-"itemName":"florapluse2.0",
-"Price":4600
-}${
-"company":"lLM",
-"itemGroup":"Ricecooker",
-"groupName":"steel",
-"itemName":"Ricecooker1.5kg",
-"Price":2890
-}${
-"company":"gabry",
-"itemGroup":"biriyaniPot",
-"groupName":"biriyaniPot",
-"itemName":"20Ltr",
-"Price":3150
-}${
-"company":"gabry",
-"itemGroup":"biriyaniPot",
-"groupName":"biriyaniPot",
-"itemName":"15Ltr",
-"Price":2650
-}${
-"company":"gabry",
-"itemGroup":"biriyaniPot",
-"groupName":"biriyaniPot",
-"itemName":"10Ltr",
-"Price":2200
-}${
-"company":"gabry",
-"itemGroup":"biriyaniPot",
-"groupName":"biriyaniPot",
-"itemName":"8Ltr",
-"Price":1750
-}${
-"company":"gabry",
-"itemGroup":"biriyaniPot",
-"groupName":"biriyaniPot",
-"itemName":"6Ltr",
-"Price":1650
-}${
-"company":"gabry",
-"itemGroup":"biriyaniPot",
-"groupName":"biriyaniPot",
-"itemName":"4.5Ltr",
-"Price":1350
-}${
-"company":"gabry",
-"itemGroup":"cookingPot",
-"groupName":"cookingPot",
-"itemName":"cookingpotmed",
-"Price":995
-}${
-"company":"gabry",
-"itemGroup":"cookingPot",
-"groupName":"cookingPot",
-"itemName":"cookingpotsml",
-"Price":925
-}${
-"company":"gabry",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypanmini",
-"Price":475
-}${
-"company":"gabry",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypansmallelgnt+lid",
-"Price":750
-}${
-"company":"gabry",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypanmedbasic",
-"Price":550
-}${
-"company":"gabry",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypanlargebasic",
-"Price":860
-}${
-"company":"gabry",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypansmallIB+lid",
-"Price":720
-}${
-"company":"gabry",
-"itemGroup":"tawa",
-"groupName":"basic",
-"itemName":"tawasmallbasic",
-"Price":475
-}${
-"company":"gabry",
-"itemGroup":"tawa",
-"groupName":"basic",
-"itemName":"tawamedbasic",
-"Price":575
-}${
-"company":"gabry",
-"itemGroup":"tawa",
-"groupName":"basic",
-"itemName":"tawalargebasic",
-"Price":630
-}${
-"company":"gabry",
-"itemGroup":"tawa",
-"groupName":"basic",
-"itemName":"tawalargebasicIB",
-"Price":750
-}${
-"company":"gabry",
-"itemGroup":"tawa",
-"groupName":"elegent",
-"itemName":"tawasmallelg",
-"Price":530
-}${
-"company":"gabry",
-"itemGroup":"tawa",
-"groupName":"elegent",
-"itemName":"tawalargeelegant",
-"Price":630
-}${
-"company":"gabry",
-"itemGroup":"tawa",
-"groupName":"edgless",
-"itemName":"tawaminiedgless",
-"Price":1230
-}${
-"company":"gabry",
-"itemGroup":"tawa",
-"groupName":"basic",
-"itemName":"tawamedbasicIB",
-"Price":595
-}${
-"company":"gabry",
-"itemGroup":"kadai",
-"groupName":"kadai",
-"itemName":"kadaimed",
-"Price":925
-}${
-"company":"gabry",
-"itemGroup":"kadai",
-"groupName":"kadai",
-"itemName":"kadaimedelegant+glasslid",
-"Price":1050
-}${
-"company":"gabry",
-"itemGroup":"kadai",
-"groupName":"kadai",
-"itemName":"kadaismallbasic",
-"Price":720
-}${
-"company":"gabry",
-"itemGroup":"non-stickset",
-"groupName":"set",
-"itemName":"tawa+frypan+kadaiKTF",
-"Price":1150
-}${
-"company":"gabry",
-"itemGroup":"non-stickset",
-"groupName":"set",
-"itemName":"tawa+frypanFTcombo",
-"Price":799
-}${
-"company":"gabry",
-"itemGroup":"pathiritawa",
-"groupName":"pathiritawa",
-"itemName":"SQflatedg2259",
-"Price":1395
-}${
-"company":"gabry",
-"itemGroup":"pathiritawa",
-"groupName":"pathiritawa",
-"itemName":"SQflatedg2688",
-"Price":1675
-}${
-"company":"gabry",
-"itemGroup":"stewpot",
-"groupName":"stewpot",
-"itemName":"stewpotglasslid",
-"Price":795
-}${
-"company":"gabry",
-"itemGroup":"stewpot",
-"groupName":"stewpot",
-"itemName":"stewpotSSlid",
-"Price":725
-}${
-"company":"greenchef",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"cosmo3ltr",
-"Price":750
-}${
-"company":"greenchef",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"hexagon3ltr",
-"Price":750
-}${
-"company":"greenchef",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"namo3ltr",
-"Price":725
-}${
-"company":"greenchef",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"grand5ltr",
-"Price":950
-}${
-"company":"greenchef",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"compact1.5ltr",
-"Price":990
-}${
-"company":"greenchef",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"classiccurve3ltr",
-"Price":1375
-}${
-"company":"greenchef",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"classiccurve5ltr",
-"Price":1600
-}${
-"company":"greenchef",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"economy2B",
-"Price":1650
-}${
-"company":"greenchef",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"superslim2B",
-"Price":1600
-}${
-"company":"greenchef",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"economypro2b",
-"Price":2100
-}${
-"company":"greenchef",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"bliss2B",
-"Price":2100
-}${
-"company":"greenchef",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"crystalpluse2B",
-"Price":2150
-}${
-"company":"greenchef",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"popular3B",
-"Price":2600
-}${
-"company":"greenchef",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"namo2B",
-"Price":2200
-}${
-"company":"greenchef",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"namo3B",
-"Price":3200
-}${
-"company":"greenchef",
-"itemGroup":"non-stick",
-"groupName":"tawa",
-"itemName":"tawa285namo",
-"Price":420
-}${
-"company":"greenchef",
-"itemGroup":"non-stick",
-"groupName":"tawa",
-"itemName":"tawaIB280mm",
-"Price":490
-}${
-"company":"greenchef",
-"itemGroup":"non-stick",
-"groupName":"appachatty",
-"itemName":"appachatty",
-"Price":450
-}${
-"company":"havells",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"Astura",
-"Price":2650
-}${
-"company":"havells",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"superspeed",
-"Price":2100
-}${
-"company":"havells",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"BLDCeficiencydx",
-"Price":3100
-}${
-"company":"havells",
-"itemGroup":"fan",
-"groupName":"wallfan",
-"itemName":"swingoff",
-"Price":2750
-}${
-"company":"havells",
-"itemGroup":"ironbox",
-"groupName":"ironbox",
-"itemName":"Aquillaamber1000w",
-"Price":895
-}${
-"company":"havells",
-"itemGroup":"ironbox",
-"groupName":"ironbox",
-"itemName":"dazzle",
-"Price":990
-}${
-"company":"havells",
-"itemGroup":"ironbox",
-"groupName":"ironbox",
-"itemName":"glanceruby750w",
-"Price":895
-}${
-"company":"havells",
-"itemGroup":"ironbox",
-"groupName":"ironbox",
-"itemName":"hawkblueweight",
-"Price":1350
-}${
-"company":"havells",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"eso3jar",
-"Price":3990
-}${
-"company":"havells",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"hexo3jar1000w",
-"Price":5900
-}${
-"company":"havells",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"hexo4jar1000w",
-"Price":6800
-}${
-"company":"havells",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"zello750",
-"Price":3800
-}${
-"company":"havells",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"hydro3jar750w",
-"Price":3990
-}${
-"company":"havells",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"powerhunk800w",
-"Price":4350
-}${
-"company":"havells",
-"itemGroup":"kettle",
-"groupName":"kettle",
-"itemName":"kettleAquapluse",
-"Price":1850
-}${
-"company":"lisma",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypanIBsml",
-"Price":590
-}${
-"company":"lisma",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypanIBmed",
-"Price":640
-}${
-"company":"lisma",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypanmed",
-"Price":575
-}${
-"company":"lisma",
-"itemGroup":"tawa",
-"groupName":"tawa",
-"itemName":"tawalarge",
-"Price":650
-}${
-"company":"lisma",
-"itemGroup":"tawa",
-"groupName":"tawa",
-"itemName":"tawamed",
-"Price":498
-}${
-"company":"lisma",
-"itemGroup":"tawa",
-"groupName":"tawa",
-"itemName":"tawasmall",
-"Price":475
-}${
-"company":"lisma",
-"itemGroup":"tawa",
-"groupName":"tawaIB",
-"itemName":"tawalargeIB",
-"Price":650
-}${
-"company":"lisma",
-"itemGroup":"tawa",
-"groupName":"tawaIB",
-"itemName":"tawamedIB",
-"Price":550
-}${
-"company":"lisma",
-"itemGroup":"tawa",
-"groupName":"tawaIB",
-"itemName":"tawasmallIB",
-"Price":525
-}${
-"company":"lisma",
-"itemGroup":"kadayi",
-"groupName":"kadayi",
-"itemName":"kadayimed",
-"Price":975
-}${
-"company":"lisma",
-"itemGroup":"kadayi",
-"groupName":"kadayi",
-"itemName":"kadayimedIB",
-"Price":995
-}${
-"company":"lisma",
-"itemGroup":"kadayi",
-"groupName":"kadayi",
-"itemName":"kadayismallIB",
-"Price":850
-}${
-"company":"lisma",
-"itemGroup":"pathiritawa",
-"groupName":"pathiritawa",
-"itemName":"pathiritawaflatedge",
-"Price":1295
-}${
-"company":"lisma",
-"itemGroup":"pathiritawa",
-"groupName":"pathiritawa",
-"itemName":"pathiritawafouredge",
-"Price":1350
-}${
-"company":"lisma",
-"itemGroup":"appachatty",
-"groupName":"appachatty",
-"itemName":"appachatty4mm",
-"Price":495
-}${
-"company":"lisma",
-"itemGroup":"gravypot",
-"groupName":"gravypot",
-"itemName":"gravypotIB",
-"Price":1395
-}${
-"company":"lisma",
-"itemGroup":"nonstickset",
-"groupName":"nonstickset",
-"itemName":"nonstickset3pcs",
-"Price":1395
-}${
-"company":"preethi",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"galaxy750w",
-"Price":4150
-}${
-"company":"preethi",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"peppy3jar",
-"Price":3900
-}${
-"company":"preethi",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"peppypro",
-"Price":6500
-}${
-"company":"preethi",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"zodiacblack+atchmnt",
-"Price":8600
-}${
-"company":"preethi",
-"itemGroup":"cocunutscraper",
-"groupName":"cocunutscraper",
-"itemName":"cocunutscraperCOCOSTA",
-"Price":4300
-}${
-"company":"prestige",
-"itemGroup":"gasstove",
-"groupName":"Hobetop",
-"itemName":"hobetop3BPHTDAI",
-"Price":12400
-}${
-"company":"prestige",
-"itemGroup":"gasstove",
-"groupName":"glass",
-"itemName":"duo3B",
-"Price":7900
-}${
-"company":"prestige",
-"itemGroup":"nonstick",
-"groupName":"nonstick",
-"itemName":"appachatty",
-"Price":850
-}${
-"company":"prestige",
-"itemGroup":"nonstick",
-"groupName":"nonstick",
-"itemName":"3pcssetBYKgrnt",
-"Price":2100
-}${
-"company":"prestige",
-"itemGroup":"nonstick",
-"groupName":"nonstick",
-"itemName":"tawaomegaslt+250m",
-"Price":820
-}${
-"company":"prestige",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"3ltrswatch",
-"Price":1490
-}${
-"company":"prestige",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"3ltrpopular",
-"Price":1300
-}${
-"company":"prestige",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"5ltrswatch",
-"Price":2050
-}${
-"company":"prestige",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"5ltrpopular",
-"Price":1790
-}${
-"company":"prestige",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"7.5ltrpopular",
-"Price":2950
-}${
-"company":"prestige",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"3ltrpopularss",
-"Price":2200
-}${
-"company":"prestige",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"5ltrpopularss",
-"Price":2300
-}${
-"company":"gflame",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"gasstoveeco2B",
-"Price":1800
-}${
-"company":"qbee",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"SS2Bclassic",
-"Price":1750
-}${
-"company":"qbee",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"max",
-"Price":1900
-}${
-"company":"qbee",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"2Bmini nano",
-"Price":1950
-}${
-"company":"qbee",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"Big",
-"Price":2400
-}${
-"company":"qbee",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"2Bsplendour",
-"Price":2990
-}${
-"company":"qbee",
-"itemGroup":"ricecooker",
-"groupName":"steel",
-"itemName":"SS1Kg",
-"Price":1550
-}${
-"company":"qbee",
-"itemGroup":"ricecooker",
-"groupName":"steel",
-"itemName":"SS1.5Kg",
-"Price":1750
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiumouterlid",
-"itemName":"1.5 ltr o/l",
-"Price":575
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiumouterlid",
-"itemName":"2ltro/l",
-"Price":595
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiuminnerlid",
-"itemName":"2ltri/l",
-"Price":590
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiumouterlid",
-"itemName":"3ltro/l",
-"Price":650
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiuminnerlid",
-"itemName":"3ltri/l",
-"Price":785
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiumouterlid",
-"itemName":"5ltro/l",
-"Price":790
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiuminnerlid",
-"itemName":"5ltri/l",
-"Price":990
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiumouterlid",
-"itemName":"5Ltr+3Ltrcombo",
-"Price":990
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiumouterlid",
-"itemName":"7.5ltrpluseheavy",
-"Price":1190
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiumouterlid",
-"itemName":"10ltrheavy",
-"Price":1290
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"aluminiumouterlid",
-"itemName":"12ltrheavy",
-"Price":1450
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"IB",
-"itemName":"3Ltro/lIB",
-"Price":730
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"IB",
-"itemName":"3Ltri/lIB",
-"Price":850
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"IB",
-"itemName":"5Ltro/lIB",
-"Price":990
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"IB",
-"itemName":"5Ltri/lIB",
-"Price":1050
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"3LtrSS",
-"Price":1290
-}${
-"company":"rasoiya",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"5LtrSS",
-"Price":1650
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"biriyaniPot",
-"itemName":"biriyaniPot3ltrglasslid",
-"Price":790
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"biriyaniPot",
-"itemName":"biriyaniPot5ltrglasslid",
-"Price":950
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"biriyaniPot",
-"itemName":"biriyaniPot8ltr",
-"Price":1195
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"biriyaniPot",
-"itemName":"biriyaniPot12ltr",
-"Price":1750
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"pathiritawa",
-"itemName":"pathiritawa4mm",
-"Price":800
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"pathiritawa",
-"itemName":"pathiritawa5mm",
-"Price":950
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"tawa",
-"itemName":"tawa2503mm",
-"Price":300
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"3pcsset",
-"itemName":"3pcsSet",
-"Price":1200
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"3pcsset2.6MM",
-"itemName":"3pcsSet",
-"Price":1100
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"kadayi",
-"itemName":"kadayi150mini",
-"Price":249
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"kadayi",
-"itemName":"kadayi2803mmsslid",
-"Price":790
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"frypan",
-"itemName":"frypanmini160",
-"Price":230
-}${
-"company":"rasoiya",
-"itemGroup":"non-stick",
-"groupName":"appachatty",
-"itemName":"appachatty",
-"Price":375
-}${
-"company":"rasoiya",
-"itemGroup":"castrol",
-"groupName":"castrol",
-"itemName":"SS2000ml",
-"Price":575
-}${
-"company":"rasoiya",
-"itemGroup":"castrol",
-"groupName":"castrol",
-"itemName":"SS3000ml",
-"Price":720
-}${
-"company":"rasoiya",
-"itemGroup":"castrol",
-"groupName":"castrol",
-"itemName":"SS4000ml",
-"Price":825
-}${
-"company":"rasoiya",
-"itemGroup":"castrol",
-"groupName":"castrol",
-"itemName":"SS5000ml",
-"Price":895
-}${
-"company":"rasoiya",
-"itemGroup":"Gasstove",
-"groupName":"gasstove",
-"itemName":"smart2Bsteel",
-"Price":1800
-}${
-"company":"sujata",
-"itemGroup":"mixi",
-"groupName":"900w",
-"itemName":"supermix",
-"Price":5250
-}${
-"company":"sujata",
-"itemGroup":"mixi",
-"groupName":"900w",
-"itemName":"dynamix",
-"Price":5900
-}${
-"company":"sujata",
-"itemGroup":"mixi",
-"groupName":"900w",
-"itemName":"multimix",
-"Price":7200
-}${
-"company":"sujata",
-"itemGroup":"mixi",
-"groupName":"900w",
-"itemName":"frootmix",
-"Price":4750
-}${
-"company":"sujata",
-"itemGroup":"mixi",
-"groupName":"900w",
-"itemName":"powermaticpluse",
-"Price":5700
-}${
-"company":"sujata",
-"itemGroup":"mixi",
-"groupName":"900w",
-"itemName":"powermatic",
-"Price":4990
-}${
-"company":"sujata",
-"itemGroup":"mixi",
-"groupName":"1000w",
-"itemName":"MG01",
-"Price":6100
-}${
-"company":"sujata",
-"itemGroup":"mixi",
-"groupName":"1000w",
-"itemName":"MG02",
-"Price":6750
-}${
-"company":"sujata",
-"itemGroup":"mixi",
-"groupName":"1000w",
-"itemName":"MG03",
-"Price":7500
-}${
-"company":"sujata",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"morningBreez",
-"Price":2350
-}${
-"company":"sujata",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"ST270es18",
-"Price":1790
-}${
-"company":"sujata",
-"itemGroup":"ironBox",
-"groupName":"ironBox",
-"itemName":"dryfastmax",
-"Price":650
-}${
-"company":"sujata",
-"itemGroup":"ironBox",
-"groupName":"ironBox",
-"itemName":"espira",
-"Price":750
-}${
-"company":"sujata",
-"itemGroup":"ironBox",
-"groupName":"ironBox",
-"itemName":"smoothslide",
-"Price":750
-}${
-"company":"sujata",
-"itemGroup":"others",
-"groupName":"kettle",
-"itemName":"kettleek-01",
-"Price":1750
-}${
-"company":"sujata",
-"itemGroup":"others",
-"groupName":"Blender",
-"itemName":"blendgraft",
-"Price":2490
-}${
-"company":"sujata",
-"itemGroup":"others",
-"groupName":"grill",
-"itemName":"grillermultipurpos",
-"Price":5300
-}${
-"company":"vguard",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"haize+48",
-"Price":1650
-}${
-"company":"vguard",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"romanzaart",
-"Price":3650
-}${
-"company":"vguard",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"wiloVX48",
-"Price":1750
-}${
-"company":"vguard",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"splendid2A2B",
-"Price":2650
-}${
-"company":"vguard",
-"itemGroup":"gasstove",
-"groupName":"steel",
-"itemName":"splendid3B",
-"Price":4600
-}${
-"company":"vguard",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"idalia2B",
-"Price":3890
-}${
-"company":"vguard",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"idalia3B",
-"Price":4950
-}${
-"company":"vguard",
-"itemGroup":"gasstove",
-"groupName":"glasstop",
-"itemName":"insightframeles",
-"Price":5200
-}${
-"company":"vguard",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"insigniaDX4jar",
-"Price":7450
-}${
-"company":"vguard",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"velocity500w",
-"Price":2700
-}${
-"company":"vguard",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"insignia750w",
-"Price":5150
-}${
-"company":"vguard",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"invidia7503jarGT",
-"Price":3900
-}${
-"company":"vguard",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"velocity750w",
-"Price":4300
-}${
-"company":"vguard",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"VX7503jar",
-"Price":3900
-}${
-"company":"vguard",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"VX750pluse4jar",
-"Price":4100
-}${
-"company":"vguard",
-"itemGroup":"mixi",
-"groupName":"mixi",
-"itemName":"wizmix",
-"Price":3700
-}${
-"company":"vguard",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"dreamspluse48",
-"Price":1790
-}${
-"company":"vguard",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"wilovx48",
-"Price":1750
-}${
-"company":"vguard",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"4leafdreams+/haize",
-"Price":1950
-}${
-"company":"vguard",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"BLDCEnvironeo48",
-"Price":3490
-}${
-"company":"vguard",
-"itemGroup":"fan",
-"groupName":"ceilingfan",
-"itemName":"BLDCEnviropro",
-"Price":3950
-}${
-"company":"vguard",
-"itemGroup":"inductioncooker",
-"groupName":"inductioncooker",
-"itemName":"VIC150",
-"Price":3350
-}${
-"company":"vguard",
-"itemGroup":"inductioncooker",
-"groupName":"inductioncooker",
-"itemName":"VIC35",
-"Price":2950
-}${
-"company":"vguard",
-"itemGroup":"inductioncooker",
-"groupName":"inductioncooker",
-"itemName":"VIC100",
-"Price":3250
-}${
-"company":"vyan",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"3ltr",
-"Price":790
-}${
-"company":"vyan",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"5ltr",
-"Price":1100
-}${
-"company":"vyan",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"10ltr",
-"Price":1450
-}${
-"company":"vyan",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"12ltr",
-"Price":1590
-}${
-"company":"vyan",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"3ltrss",
-"Price":1250
-}${
-"company":"vyan",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"5ltrss",
-"Price":1590
-}${
-"company":"vyan",
-"itemGroup":"kuzhiyappam",
-"groupName":"kuzhiyappam",
-"itemName":"7regular",
-"Price":475
-}${
-"company":"vyan",
-"itemGroup":"kuzhiyappam",
-"groupName":"kuzhiyappam",
-"itemName":"7special",
-"Price":530
-}${
-"company":"vyan",
-"itemGroup":"kuzhiyappam",
-"groupName":"kuzhiyappam",
-"itemName":"7jumbo",
-"Price":990
-}${
-"company":"vyan",
-"itemGroup":"kuzhiyappam",
-"groupName":"kuzhiyappam",
-"itemName":"9sepcial",
-"Price":685
-}${
-"company":"vyan",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypan240/3mm",
-"Price":595
-}${
-"company":"vyan",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypancute200/3mm",
-"Price":430
-}${
-"company":"vyan",
-"itemGroup":"frypan",
-"groupName":"frypan",
-"itemName":"frypancute200/3mm+lid",
-"Price":465
-}${
-"company":"vyan",
-"itemGroup":"tawa",
-"groupName":"tawa",
-"itemName":"tawa260/3mm",
-"Price":425
-}${
-"company":"vyan",
-"itemGroup":"tawa",
-"groupName":"tawa",
-"itemName":"tawa280/4mm",
-"Price":525
-}${
-"company":"vyan",
-"itemGroup":"kadai",
-"groupName":"kadai",
-"itemName":"kadaicute200",
-"Price":495
-}${
-"company":"vyan",
-"itemGroup":"kadai",
-"groupName":"kadai",
-"itemName":"kadai24",
-"Price":620
-}${
-"company":"vyan",
-"itemGroup":"kadai",
-"groupName":"kadai",
-"itemName":"kadai28",
-"Price":750
-}${
-"company":"vyan",
-"itemGroup":"pathiriTawa",
-"groupName":"pathiriTawa",
-"itemName":"super320/5mm",
-"Price":760
-}${
-"company":"vyan",
-"itemGroup":"appachatty",
-"groupName":"appachatty",
-"itemName":"appachattydeep23",
-"Price":450
-}${
-"company":"premix",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"3ltr",
-"Price":625
-}${
-"company":"premix",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"5ltr",
-"Price":790
-}${
-"company":"premix",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"3ltrss",
-"Price":1100
-}${
-"company":"premix",
-"itemGroup":"cooker",
-"groupName":"steel",
-"itemName":"5ltrss",
-"Price":1450
-}${
-"company":"premix",
-"itemGroup":"ricecooker",
-"groupName":"steel",
-"itemName":"1kg",
-"Price":1550
-}${
-"company":"premix",
-"itemGroup":"ricecooker",
-"groupName":"steel",
-"itemName":"1.5kg",
-"Price":1690
-}${
-"company":"sukanya",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"3ltrswatch",
-"Price":650
-}${
-"company":"sukanya",
-"itemGroup":"cooker",
-"groupName":"aluminium",
-"itemName":"5ltrswatch",
-"Price":800
-}
+    "company": "impex",
+    "itemGroup": "air fryer",
+    "groupName": "air fryer",
+    "itemName": "air fryer smart",
+    "Price": 3490
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "bhiriyani pot",
+    "itemName": "10 ltr dum",
+    "Price": 2290
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "bhiriyani pot",
+    "itemName": "12 ltr dum",
+    "Price": 2450
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "bhiriyani pot",
+    "itemName": "royal RCS4 2 pcs",
+    "Price": 2190
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "tawa",
+    "itemName": "concave ICTP28",
+    "Price": 798
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "tawa",
+    "itemName": "diecast ruby 27",
+    "Price": 675
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "tawa",
+    "itemName": "pan ITP 2620",
+    "Price": 650
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "tawa",
+    "itemName": "SS STP 24 Shine",
+    "Price": 950
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "frypan",
+    "itemName": "diecast ruby 24",
+    "Price": 690
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "frypan",
+    "itemName": "SS SFP 24 shine",
+    "Price": 990
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "kadayi",
+    "itemName": "SS SKP 24 shine",
+    "Price": 1490
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "kuzhiyappam",
+    "itemName": "kuzhiyappam 9",
+    "Price": 695
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "milk pan",
+    "itemName": "milk pan 1875",
+    "Price": 675
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "non-stick set",
+    "itemName": "2 pcs set TF",
+    "Price": 790
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "non-stick set",
+    "itemName": "3 pcs set KTF 444",
+    "Price": 1390
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "non-stick set",
+    "itemName": "3 pcs set NV 444",
+    "Price": 1250
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "non-stick set",
+    "itemName": "3 pcs set RKTF24",
+    "Price": 1600
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "non-stick set",
+    "itemName": "3 pcs set ROYAL",
+    "Price": 1590
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "non-stick set",
+    "itemName": "FTA 4603 pcs set",
+    "Price": 1295
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "wokpan",
+    "itemName": "wokpan IB-IWP28",
+    "Price": 1150
+  }${
+    "company": "impex",
+    "itemGroup": "non-stick",
+    "groupName": "sausepan",
+    "itemName": "sausepan B pot shine 24",
+    "Price": 1650
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "Aluminium",
+    "itemName": "norma 10 ltr",
+    "Price": 1890
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "Aluminium",
+    "itemName": "norma 5 ltr",
+    "Price": 990
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "Aluminium",
+    "itemName": "norma 3 ltr",
+    "Price": 790
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "IB",
+    "itemName": "eco 2",
+    "Price": 850
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "IB",
+    "itemName": "eco 3",
+    "Price": 850
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "IB",
+    "itemName": "eco 5",
+    "Price": 1100
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "IB",
+    "itemName": "eco 7",
+    "Price": 1790
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "IB",
+    "itemName": "eco 2+3+5",
+    "Price": 1990
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "ep2",
+    "Price": 1190
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "ep3",
+    "Price": 1250
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "ep5",
+    "Price": 1650
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "smart",
+    "itemName": "smart 2.5 ltr",
+    "Price": 1395
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "smart",
+    "itemName": "smart 4.5 ltr",
+    "Price": 1950
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "smart",
+    "itemName": "smart norma 2.5 ltr",
+    "Price": 950
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "smart",
+    "itemName": "smart norma 4.5 ltr",
+    "Price": 1200
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "black",
+    "itemName": "HA 2.5ltr Dripless",
+    "Price": 1190
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "black",
+    "itemName": "HA 4.5ltr Dripless",
+    "Price": 1600
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "delight",
+    "itemName": "delight 10",
+    "Price": 1850
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "delight",
+    "itemName": "delight 7",
+    "Price": 1695
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "delight",
+    "itemName": "delight 5",
+    "Price": 1150
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "delight",
+    "itemName": "delight 3",
+    "Price": 890
+  }${
+    "company": "impex",
+    "itemGroup": "cooker",
+    "groupName": "delight",
+    "itemName": "delight 5+3",
+    "Price": 1890
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "enlight 2B",
+    "Price": 250
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "IGS1 3B",
+    "Price": 3550
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "aspira ador 2B",
+    "Price": 2850
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "fiera 2B",
+    "Price": 3250
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "fiera 3B",
+    "Price": 4150
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "glaze 2B",
+    "Price": 3990
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "glaze 3B",
+    "Price": 4950
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "glaze 3B regular",
+    "Price": 4650
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "specta 2b elite",
+    "Price": 2900
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "specta 2b NEO",
+    "Price": 2350
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "specta 3B NEO",
+    "Price": 3100
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "welfire 2B",
+    "Price": 1900
+  }${
+    "company": "impex",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "aira 2B frameless",
+    "Price": 4750
+  }${
+    "company": "impex",
+    "itemGroup": "induction cooker",
+    "groupName": "induction cooker",
+    "itemName": "omega H2A  SL220",
+    "Price": 2950
+  }${
+    "company": "impex",
+    "itemGroup": "induction cooker",
+    "groupName": "induction cooker",
+    "itemName": "omega H6A DX",
+    "Price": 2250
+  }${
+    "company": "impex",
+    "itemGroup": "kettle",
+    "groupName": "kettle",
+    "itemName": "kettle 1001c",
+    "Price": 995
+  }${
+    "company": "impex",
+    "itemGroup": "kettle",
+    "groupName": "kettle",
+    "itemName": "kettle 1501",
+    "Price": 650
+  }${
+    "company": "impex",
+    "itemGroup": "kettle",
+    "groupName": "kettle",
+    "itemName": "kettle GK 18",
+    "Price": 1395
+  }${
+    "company": "impex",
+    "itemGroup": "kettle",
+    "groupName": "kettle",
+    "itemName": "kettle JB15 Black",
+    "Price": 1250
+  }${
+    "company": "impex",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "ceiling fan Aero Alora",
+    "Price": 1790
+  }${
+    "company": "impex",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "ceiling fan BLDC atom28",
+    "Price": 3150
+  }${
+    "company": "impex",
+    "itemGroup": "fan",
+    "groupName": "wall fan",
+    "itemName": "oreon",
+    "Price": 1990
+  }${
+    "company": "impex",
+    "itemGroup": "fan",
+    "groupName": "wall fan",
+    "itemName": "zolo 1969",
+    "Price": 2250
+  }${
+    "company": "impex",
+    "itemGroup": "rice cooker",
+    "groupName": "rice cooker",
+    "itemName": "ss 1 kg",
+    "Price": 1900
+  }${
+    "company": "impex",
+    "itemGroup": "rice cooker",
+    "groupName": "rice cooker",
+    "itemName": "ss 1.5 kg",
+    "Price": 2250
+  }${
+    "company": "impex",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "grind D Q 600",
+    "Price": 2400
+  }${
+    "company": "impex",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "Panter 800w",
+    "Price": 3600
+  }${
+    "company": "impex",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "starmix 750w",
+    "Price": 2500
+  }${
+    "company": "impex",
+    "itemGroup": "oven",
+    "groupName": "oven",
+    "itemName": "OTG 19 ltr + btr",
+    "Price": 4700
+  }${
+    "company": "impex",
+    "itemGroup": "oven",
+    "groupName": "oven",
+    "itemName": "OTG 28 ltr",
+    "Price": 6100 
+  }${
+    "company": "impex",
+    "itemGroup": "magic pan",
+    "groupName": "magic pan",
+    "itemName": "magic pan ws 18",
+    "Price": 1990
+  }${
+    "company": "amogh",
+    "itemGroup": "rice cooker",
+    "groupName": "rice cooker",
+    "itemName": "steel 1 kg",
+    "Price": 1590
+  }${
+    "company": "amogh",
+    "itemGroup": "rice cooker",
+    "groupName": "rice cooker",
+    "itemName": "steel 1.5 kg",
+    "Price": 1790
+  }${
+    "company": "amogh",
+    "itemGroup": "rice cooker",
+    "groupName": "rice cooker",
+    "itemName": "steel 2 kg",
+    "Price": 2690
+  }${
+    "company": "bPL",
+    "itemGroup": "kettle",
+    "groupName": "kettle",
+    "itemName": "kettle 1.8 00118",
+    "Price": 850
+  }${
+    "company": "bPL",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "3 jar 500w 46150 +c",
+    "Price": 2250
+  }${
+    "company": "bPL",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "3 jar 750w 30975 + c",
+    "Price": 3600
+  }${
+    "company": "bPL",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "4 jar 750w 45275 + c",
+    "Price": 3990
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "blueline 5 ltr",
+    "Price": 2750
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "blueline 7.5",
+    "Price": 3250
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "blueline 10 ltr",
+    "Price": 1450
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "cute 2ltr ss",
+    "Price": 1795
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "cute 3ltr ss",
+    "Price": 1990
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "cute 5 ltr",
+    "Price": 2350
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "tezz 2 ltr",
+    "Price": 2250
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "tezz 3 ltr",
+    "Price": 2490
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "STD 3 ltr",
+    "Price": 950
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "STD 10 ltr",
+    "Price": 2250
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "STD 5 ltr",
+    "Price": 1350
+  }${
+    "company": "butterfly",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "tezz 5 ltr",
+    "Price": 3250
+  }${
+    "company": "butterfly",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "Ace",
+    "Price": 2750
+  }${
+    "company": "butterfly",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "rhino",
+    "Price": 2150
+  }${
+    "company": "butterfly",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "treo 3 B",
+    "Price": 3990
+  }${
+    "company": "butterfly",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "treo pluse 3 B",
+    "Price": 3990
+  }${
+    "company": "butterfly",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "duo pluse 2 B",
+    "Price": 2950
+  }${
+    "company": "butterfly",
+    "itemGroup": "mixi",
+    "groupName": "3 jar",
+    "itemName": "cyclone 3 jar",
+    "Price": 3850
+  }${
+    "company": "butterfly",
+    "itemGroup": "mixi",
+    "groupName": "3 jar",
+    "itemName": "pestle 3 jar",
+    "Price": 3400
+  }${
+    "company": "butterfly",
+    "itemGroup": "mixi",
+    "groupName": "3 jar",
+    "itemName": "ruby elite 3 jar",
+    "Price": 2600
+  }${
+    "company": "butterfly",
+    "itemGroup": "mixi",
+    "groupName": "3 jar",
+    "itemName": "jubilant 3 jar",
+    "Price": 3600
+  }${
+    "company": "butterfly",
+    "itemGroup": "mixi",
+    "groupName": "3 jar",
+    "itemName": "rhino 500w 3 jar",
+    "Price": 2500
+  }${
+    "company": "butterfly",
+    "itemGroup": "mixi",
+    "groupName": "3 jar",
+    "itemName": "stalion 3 jar",
+    "Price": 3950
+  }${
+    "company": "butterfly",
+    "itemGroup": "mixi",
+    "groupName": "3 jar",
+    "itemName": "bhima 3 1000w",
+    "Price": 5300
+  }${
+    "company": "butterfly",
+    "itemGroup": "non-stick",
+    "groupName": "appachatty",
+    "itemName": "appachatty",
+    "Price": 650
+  }${
+    "company": "butterfly",
+    "itemGroup": "non-stick",
+    "groupName": "tawa",
+    "itemName": "concave tawa 280",
+    "Price": 985
+  }${
+    "company": "butterfly",
+    "itemGroup": "non-stick",
+    "groupName": "tawa",
+    "itemName": "concave tawa 300",
+    "Price": 1075
+  }${
+    "company": "butterfly",
+    "itemGroup": "grinder",
+    "groupName": "grinder",
+    "itemName": "flora pluse 2.0",
+    "Price": 4600
+  }${
+    "company": "l L M",
+    "itemGroup": "Rice cooker",
+    "groupName": "steel",
+    "itemName": "Rice cooker 1.5kg",
+    "Price": 2890
+  }${
+    "company": "gabry",
+    "itemGroup": "biriyani Pot",
+    "groupName": "biriyani Pot",
+    "itemName": "20 Ltr",
+    "Price": 3150
+  }${
+    "company": "gabry",
+    "itemGroup": "biriyani Pot",
+    "groupName": "biriyani Pot",
+    "itemName": "15 Ltr",
+    "Price": 2650 
+  }${
+    "company": "gabry",
+    "itemGroup": "biriyani Pot",
+    "groupName": "biriyani Pot",
+    "itemName": "10 Ltr",
+    "Price": 2200
+  }${
+    "company": "gabry",
+    "itemGroup": "biriyani Pot",
+    "groupName": "biriyani Pot",
+    "itemName": "8 Ltr",
+    "Price": 1750
+  }${
+    "company": "gabry",
+    "itemGroup": "biriyani Pot",
+    "groupName": "biriyani Pot",
+    "itemName": "6 Ltr",
+    "Price": 1650
+  }${
+    "company": "gabry",
+    "itemGroup": "biriyani Pot",
+    "groupName": "biriyani Pot",
+    "itemName": "4.5 Ltr",
+    "Price": 1350
+  }${
+    "company": "gabry",
+    "itemGroup": "cooking Pot",
+    "groupName": "cooking Pot",
+    "itemName": "cooking pot med",
+    "Price": 995
+  }${
+    "company": "gabry",
+    "itemGroup": "cooking Pot",
+    "groupName": "cooking Pot",
+    "itemName": "cooking pot sml",
+    "Price": 925
+  }${
+    "company": "gabry",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan mini",
+    "Price": 475
+  }${
+    "company": "gabry",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan small elgnt + lid",
+    "Price": 750
+  }${
+    "company": "gabry",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan med basic",
+    "Price": 550
+  }${
+    "company": "gabry",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan large basic",
+    "Price": 860
+  }${
+    "company": "gabry",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan small IB + lid",
+    "Price": 720
+  }${
+    "company": "gabry",
+    "itemGroup": "tawa",
+    "groupName": "basic",
+    "itemName": "tawa small basic",
+    "Price": 475
+  }${
+    "company": "gabry",
+    "itemGroup": "tawa",
+    "groupName": "basic",
+    "itemName": "tawa med basic",
+    "Price": 575
+  }${
+    "company": "gabry",
+    "itemGroup": "tawa",
+    "groupName": "basic",
+    "itemName": "tawa large basic",
+    "Price": 630
+  }${
+    "company": "gabry",
+    "itemGroup": "tawa",
+    "groupName": "basic",
+    "itemName": "tawa large basic IB",
+    "Price": 750
+  }${
+    "company": "gabry",
+    "itemGroup": "tawa",
+    "groupName": "elegent",
+    "itemName": "tawa small elg",
+    "Price": 530
+  }${
+    "company": "gabry",
+    "itemGroup": "tawa",
+    "groupName": "elegent",
+    "itemName": "tawa large elegant",
+    "Price": 630 
+  }${
+    "company": "gabry",
+    "itemGroup": "tawa",
+    "groupName": "edgless",
+    "itemName": "tawa mini edgless",
+    "Price": 1230
+  }${
+    "company": "gabry",
+    "itemGroup": "tawa",
+    "groupName": "basic",
+    "itemName": "tawa med basic IB",
+    "Price": 595
+  }${
+    "company": "gabry",
+    "itemGroup": "kadai",
+    "groupName": "kadai",
+    "itemName": "kadai med",
+    "Price": 925
+  }${
+    "company": "gabry",
+    "itemGroup": "kadai",
+    "groupName": "kadai",
+    "itemName": "kadai med elegant + glass lid",
+    "Price": 1050
+  }${
+    "company": "gabry",
+    "itemGroup": "kadai",
+    "groupName": "kadai",
+    "itemName": "kadai small basic",
+    "Price": 720
+  }${
+    "company": "gabry",
+    "itemGroup": "non-stick set",
+    "groupName": "set",
+    "itemName": "tawa + frypan + kadai KTF",
+    "Price": 1150
+  }${
+    "company": "gabry",
+    "itemGroup": "non-stick set",
+    "groupName": "set",
+    "itemName": "tawa + frypan FT combo",
+    "Price": 799
+  }${
+    "company": "gabry",
+    "itemGroup": "pathiri tawa",
+    "groupName": "pathiri tawa",
+    "itemName": "SQ flat edg 2259",
+    "Price": 1395
+  }${
+    "company": "gabry",
+    "itemGroup": "pathiri tawa",
+    "groupName": "pathiri tawa",
+    "itemName": "SQ flat edg 2688",
+    "Price": 1675
+  }${
+    "company": "gabry",
+    "itemGroup": "stew pot",
+    "groupName": "stewpot",
+    "itemName": "stewpot glass lid",
+    "Price": 795
+  }${
+    "company": "gabry",
+    "itemGroup": "stew pot",
+    "groupName": "stewpot",
+    "itemName": "stewpot SS lid",
+    "Price": 725
+  }${
+    "company": "greenchef",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "cosmo 3 ltr",
+    "Price": 750
+  }${
+    "company": "greenchef",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "hexagon 3 ltr",
+    "Price": 750
+  }${
+    "company": "greenchef",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "namo 3 ltr",
+    "Price": 725
+  }${
+    "company": "greenchef",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "grand 5 ltr",
+    "Price": 950
+  }${
+    "company": "greenchef",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "compact 1.5 ltr",
+    "Price": 990
+  }${
+    "company": "greenchef",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "classic curve 3 ltr",
+    "Price": 1375
+  }${
+    "company": "greenchef",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "classic curve 5 ltr",
+    "Price": 1600
+  }${
+    "company": "greenchef",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "economy 2B",
+    "Price": 1650
+  }${
+    "company": "greenchef",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "super slim 2B",
+    "Price": 1600
+  }${
+    "company": "greenchef",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "economy pro 2b",
+    "Price": 2100
+  }${
+    "company": "greenchef",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "bliss 2B",
+    "Price": 2100
+  }${
+    "company": "greenchef",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "crystal pluse 2 B",
+    "Price": 2150
+  }${
+    "company": "greenchef",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "popular 3B",
+    "Price": 2600
+  }${
+    "company": "greenchef",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "namo 2B",
+    "Price": 2200
+  }${
+    "company": "greenchef",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "namo 3B",
+    "Price": 3200
+  }${
+    "company": "greenchef",
+    "itemGroup": "non-stick",
+    "groupName": "tawa",
+    "itemName": "tawa 285 namo",
+    "Price": 420
+  }${
+    "company": "greenchef",
+    "itemGroup": "non-stick",
+    "groupName": "tawa",
+    "itemName": "tawa IB 280 mm",
+    "Price": 490
+  }${
+    "company": "greenchef",
+    "itemGroup": "non-stick",
+    "groupName": "appachatty",
+    "itemName": "appachatty",
+    "Price": 450
+  }${
+    "company": "havells",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "Astura",
+    "Price": 2650
+  }${
+    "company": "havells",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "super speed",
+    "Price": 2100
+  }${
+    "company": "havells",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "BLDC eficiency dx",
+    "Price": 3100
+  }${
+    "company": "havells",
+    "itemGroup": "fan",
+    "groupName": "wall fan",
+    "itemName": "swing off",
+    "Price": 2750
+  }${
+    "company": "havells",
+    "itemGroup": "iron box",
+    "groupName": "iron box",
+    "itemName": "Aquilla amber 1000w",
+    "Price": 895
+  }${
+    "company": "havells",
+    "itemGroup": "iron box",
+    "groupName": "iron box",
+    "itemName": "dazzle",
+    "Price": 990
+  }${
+    "company": "havells",
+    "itemGroup": "iron box",
+    "groupName": "iron box",
+    "itemName": "glance ruby 750w",
+    "Price": 895
+  }${
+    "company": "havells",
+    "itemGroup": "iron box",
+    "groupName": "iron box",
+    "itemName": "hawk blue weight",
+    "Price": 1350
+  }${
+    "company": "havells",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "eso 3 jar",
+    "Price": 3990
+  }${
+    "company": "havells",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "hexo 3 jar 1000w",
+    "Price": 5900
+  }${
+    "company": "havells",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "hexo 4 jar 1000w",
+    "Price": 6800
+  }${
+    "company": "havells",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "zello 750",
+    "Price": 3800
+  }${
+    "company": "havells",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "hydro 3 jar 750w",
+    "Price": 3990
+  }${
+    "company": "havells",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "power hunk 800w",
+    "Price": 4350
+  }${
+    "company": "havells",
+    "itemGroup": "kettle",
+    "groupName": "kettle",
+    "itemName": "kettle Aqua pluse",
+    "Price": 1850
+  }${
+    "company": "lisma",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan IB sml",
+    "Price": 590
+  }${
+    "company": "lisma",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan IB med",
+    "Price": 640
+  }${
+    "company": "lisma",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan med",
+    "Price": 575
+  }${
+    "company": "lisma",
+    "itemGroup": "tawa",
+    "groupName": "tawa ",
+    "itemName": "tawa large",
+    "Price": 650
+  }${
+    "company": "lisma",
+    "itemGroup": "tawa",
+    "groupName": "tawa ",
+    "itemName": "tawa med",
+    "Price": 498
+  }${
+    "company": "lisma",
+    "itemGroup": "tawa",
+    "groupName": "tawa ",
+    "itemName": "tawa small",
+    "Price": 475
+  }${
+    "company": "lisma",
+    "itemGroup": "tawa",
+    "groupName": "tawa IB",
+    "itemName": "tawa large IB",
+    "Price": 650
+  }${
+    "company": "lisma",
+    "itemGroup": "tawa",
+    "groupName": "tawa IB",
+    "itemName": "tawa med IB",
+    "Price": 550
+  }${
+    "company": "lisma",
+    "itemGroup": "tawa",
+    "groupName": "tawa IB",
+    "itemName": "tawa small IB",
+    "Price": 525
+  }${
+    "company": "lisma",
+    "itemGroup": "kadayi",
+    "groupName": "kadayi",
+    "itemName": "kadayi med",
+    "Price": 975
+  }${
+    "company": "lisma",
+    "itemGroup": "kadayi",
+    "groupName": "kadayi",
+    "itemName": "kadayi med IB",
+    "Price": 995
+  }${
+    "company": "lisma",
+    "itemGroup": "kadayi",
+    "groupName": "kadayi",
+    "itemName": "kadayi small IB",
+    "Price": 850
+  }${
+    "company": "lisma",
+    "itemGroup": "pathiri tawa",
+    "groupName": "pathiri tawa",
+    "itemName": "pathiri tawa flat edge",
+    "Price": 1295
+  }${
+    "company": "lisma",
+    "itemGroup": "pathiri tawa",
+    "groupName": "pathiri tawa",
+    "itemName": "pathiri tawa four edge",
+    "Price": 1350
+  }${
+    "company": "lisma",
+    "itemGroup": "appachatty",
+    "groupName": "appachatty",
+    "itemName": "appachatty 4 mm",
+    "Price": 495
+  }${
+    "company": "lisma",
+    "itemGroup": "gravy pot ",
+    "groupName": "gravy pot ",
+    "itemName": "gravy pot IB",
+    "Price": 1395
+  }${
+    "company": "lisma",
+    "itemGroup": "nonstick set",
+    "groupName": "nonstick set",
+    "itemName": "nonstick set 3 pcs",
+    "Price": 1395
+  }${
+    "company": "preethi",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "galaxy 750w",
+    "Price": 4150
+  }${
+    "company": "preethi",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "peppy 3 jar",
+    "Price": 3900
+  }${
+    "company": "preethi",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "peppy pro",
+    "Price": 6500
+  }${
+    "company": "preethi",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "zodiac black + atchmnt",
+    "Price": 8600
+  }${
+    "company": "preethi",
+    "itemGroup": "cocunut scraper",
+    "groupName": "cocunut scraper",
+    "itemName": "cocunut scraper COCOSTA",
+    "Price": 4300
+  }${
+    "company": "prestige",
+    "itemGroup": "gas stove",
+    "groupName": "Hobetop",
+    "itemName": "hobetop 3B PHTD AI",
+    "Price": 12400
+  }${
+    "company": "prestige",
+    "itemGroup": "gas stove",
+    "groupName": "glass",
+    "itemName": "duo 3B",
+    "Price": 7900
+  }${
+    "company": "prestige",
+    "itemGroup": "nonstick",
+    "groupName": "nonstick",
+    "itemName": "appachatty",
+    "Price": 850
+  }${
+    "company": "prestige",
+    "itemGroup": "nonstick",
+    "groupName": "nonstick",
+    "itemName": "3pcs set BYK grnt",
+    "Price": 2100
+  }${
+    "company": "prestige",
+    "itemGroup": "nonstick",
+    "groupName": "nonstick",
+    "itemName": "tawa omega slt + 250m",
+    "Price": 820
+  }${
+    "company": "prestige",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "3 ltr swatch",
+    "Price": 1490
+  }${
+    "company": "prestige",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "3 ltr popular",
+    "Price": 1300
+  }${
+    "company": "prestige",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "5 ltr swatch",
+    "Price": 2050 
+  }${
+    "company": "prestige",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "5 ltr popular",
+    "Price": 1790
+  }${
+    "company": "prestige",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "7.5 ltr popular",
+    "Price": 2950
+  }${
+    "company": "prestige",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "3 ltr popular ss",
+    "Price": 2200
+  }${
+    "company": "prestige",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "5 ltr popular ss",
+    "Price": 2300
+  }${
+    "company": "gflame",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "gas stove eco 2B",
+    "Price": 1800
+  }${
+    "company": "qbee",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "SS 2B classic",
+    "Price": 1750
+  }${
+    "company": "qbee",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "max",
+    "Price": 1900
+  }${
+    "company": "qbee",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "2B mini/nano",
+    "Price": 1950
+  }${
+    "company": "qbee",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "Big",
+    "Price": 2400
+  }${
+    "company": "qbee",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "2B splendour",
+    "Price": 2990
+  }${
+    "company": "qbee",
+    "itemGroup": "rice cooker",
+    "groupName": "steel",
+    "itemName": "SS 1 Kg",
+    "Price": 1550
+  }${
+    "company": "qbee",
+    "itemGroup": "rice cooker",
+    "groupName": "steel",
+    "itemName": "SS 1.5 Kg",
+    "Price": 1750
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium outer lid",
+    "itemName": "1.5 ltr o/l",
+    "Price": 575
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium outer lid",
+    "itemName": "2 ltr o/l",
+    "Price": 595
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium inner lid",
+    "itemName": "2 ltr i/l",
+    "Price": 590
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium outer lid",
+    "itemName": "3 ltr o/l",
+    "Price": 650
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium inner lid",
+    "itemName": "3 ltr i/l",
+    "Price": 785
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium outer lid",
+    "itemName": "5 ltr o/l",
+    "Price": 790
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium inner lid",
+    "itemName": "5 ltr i/l",
+    "Price": 990
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium outer lid",
+    "itemName": "5 Ltr + 3 Ltr combo",
+    "Price": 990
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium outer lid",
+    "itemName": "7.5 ltr pluse heavy",
+    "Price": 1190
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium outer lid",
+    "itemName": "10 ltr heavy",
+    "Price": 1290
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium outer lid",
+    "itemName": "12 ltr heavy",
+    "Price": 1450
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "IB",
+    "itemName": "3 Ltr o/l IB",
+    "Price": 730
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "IB",
+    "itemName": "3 Ltr i/l IB",
+    "Price": 850
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "IB",
+    "itemName": "5 Ltr o/l IB",
+    "Price": 990
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "IB",
+    "itemName": "5 Ltr i/l IB",
+    "Price": 1050
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "3 Ltr SS",
+    "Price": 1290
+  }${
+    "company": "rasoiya",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "5 Ltr SS",
+    "Price": 1650
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "biriyani Pot",
+    "itemName": "biriyani Pot 3 ltr glass lid",
+    "Price": 790
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "biriyani Pot",
+    "itemName": "biriyani Pot 5 ltr glass lid",
+    "Price": 950 
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "biriyani Pot",
+    "itemName": "biriyani Pot 8 ltr",
+    "Price": 1195
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "biriyani Pot",
+    "itemName": "biriyani Pot 12 ltr",
+    "Price": 1750
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "pathiri tawa",
+    "itemName": "pathiri tawa 4mm",
+    "Price": 800
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "pathiri tawa",
+    "itemName": "pathiri tawa 5mm",
+    "Price": 950
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "tawa",
+    "itemName": "tawa 250 3mm",
+    "Price": 300
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "3pcs set",
+    "itemName": "3pcs Set",
+    "Price": 1200
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "3pcs set 2.6MM",
+    "itemName": "3pcs Set",
+    "Price": 1100
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "kadayi",
+    "itemName": "kadayi 150 mini",
+    "Price": 249
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "kadayi",
+    "itemName": "kadayi 280 3mm ss lid",
+    "Price": 790
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "frypan",
+    "itemName": "frypan mini 160",
+    "Price": 230
+  }${
+    "company": "rasoiya",
+    "itemGroup": "non-stick",
+    "groupName": "appachatty",
+    "itemName": "appachatty",
+    "Price": 375
+  }${
+    "company": "rasoiya",
+    "itemGroup": "castrol",
+    "groupName": "castrol",
+    "itemName": "SS 2000ml",
+    "Price": 575
+  }${
+    "company": "rasoiya",
+    "itemGroup": "castrol",
+    "groupName": "castrol",
+    "itemName": "SS 3000ml",
+    "Price": 720
+  }${
+    "company": "rasoiya",
+    "itemGroup": "castrol",
+    "groupName": "castrol",
+    "itemName": "SS 4000ml",
+    "Price": 825
+  }${
+    "company": "rasoiya",
+    "itemGroup": "castrol",
+    "groupName": "castrol",
+    "itemName": "SS 5000ml",
+    "Price": 895
+  }${
+    "company": "rasoiya",
+    "itemGroup": "Gas stove",
+    "groupName": "gas stove",
+    "itemName": "smart 2B steel",
+    "Price": 1800
+  }${
+    "company": "sujata",
+    "itemGroup": "mixi",
+    "groupName": "900w",
+    "itemName": "supermix",
+    "Price": 5250
+  }${
+    "company": "sujata",
+    "itemGroup": "mixi",
+    "groupName": "900w",
+    "itemName": "dynamix",
+    "Price": 5900
+  }${
+    "company": "sujata",
+    "itemGroup": "mixi",
+    "groupName": "900w",
+    "itemName": "multimix",
+    "Price": 7200
+  }${
+    "company": "sujata",
+    "itemGroup": "mixi",
+    "groupName": "900w",
+    "itemName": "frootmix",
+    "Price": 4750
+  }${
+    "company": "sujata",
+    "itemGroup": "mixi",
+    "groupName": "900w",
+    "itemName": "powermatic pluse",
+    "Price": 5700
+  }${
+    "company": "sujata",
+    "itemGroup": "mixi",
+    "groupName": "900w",
+    "itemName": "powermatic",
+    "Price": 4990
+  }${
+    "company": "sujata",
+    "itemGroup": "mixi",
+    "groupName": "1000w",
+    "itemName": "MG01",
+    "Price": 6100
+  }${
+    "company": "sujata",
+    "itemGroup": "mixi",
+    "groupName": "1000w",
+    "itemName": "MG02",
+    "Price": 6750
+  }${
+    "company": "sujata",
+    "itemGroup": "mixi",
+    "groupName": "1000w",
+    "itemName": "MG03",
+    "Price": 7500
+  }${
+    "company": "sujata",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "morning Breez",
+    "Price": 2350
+  }${
+    "company": "sujata",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "ST270 es 18",
+    "Price": 1790
+  }${
+    "company": "sujata",
+    "itemGroup": "iron Box",
+    "groupName": "iron Box",
+    "itemName": "dry fast max",
+    "Price": 650
+  }${
+    "company": "sujata",
+    "itemGroup": "iron Box",
+    "groupName": "iron Box",
+    "itemName": "espira",
+    "Price": 750
+  }${
+    "company": "sujata",
+    "itemGroup": "iron Box",
+    "groupName": "iron Box",
+    "itemName": "smooth slide",
+    "Price": 750
+  }${
+    "company": "sujata",
+    "itemGroup": "others",
+    "groupName": "kettle",
+    "itemName": "kettle ek-01",
+    "Price": 1750
+  }${
+    "company": "sujata",
+    "itemGroup": "others",
+    "groupName": "Blender",
+    "itemName": "blend graft",
+    "Price": 2490
+  }${
+    "company": "sujata",
+    "itemGroup": "others",
+    "groupName": "grill",
+    "itemName": "griller multi purpos",
+    "Price": 5300
+  }${
+    "company": "vguard",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "haize + 48",
+    "Price": 1650
+  }${
+    "company": "vguard",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "romanza art",
+    "Price": 3650
+  }${
+    "company": "vguard",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "wilo VX 48",
+    "Price": 1750
+  }${
+    "company": "vguard",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "splendid 2A 2B",
+    "Price": 2650
+  }${
+    "company": "vguard",
+    "itemGroup": "gas stove",
+    "groupName": "steel",
+    "itemName": "splendid 3B",
+    "Price": 4600
+  }${
+    "company": "vguard",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "idalia 2B",
+    "Price": 3890
+  }${
+    "company": "vguard",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "idalia 3B",
+    "Price": 4950
+  }${
+    "company": "vguard",
+    "itemGroup": "gas stove",
+    "groupName": "glass top",
+    "itemName": "insight frameles",
+    "Price": 5200
+  }${
+    "company": "vguard",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "insignia DX 4 jar",
+    "Price": 7450
+  }${
+    "company": "vguard",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "velocity 500w",
+    "Price": 2700
+  }${
+    "company": "vguard",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "insignia 750w",
+    "Price": 5150
+  }${
+    "company": "vguard",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "invidia 750 3jar GT",
+    "Price": 3900
+  }${
+    "company": "vguard",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "velocity 750w",
+    "Price": 4300
+  }${
+    "company": "vguard",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "VX 750 3jar",
+    "Price": 3900
+  }${
+    "company": "vguard",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "VX 750 pluse 4 jar",
+    "Price": 4100
+  }${
+    "company": "vguard",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "wizmix",
+    "Price": 3700 
+  }${
+    "company": "vguard",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "dreams pluse 48",
+    "Price": 1790
+  }${
+    "company": "vguard",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "wilovx 48",
+    "Price": 1750
+  }${
+    "company": "vguard",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "4 leaf dreams+/ haize",
+    "Price": 1950
+  }${
+    "company": "vguard",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "BLDC Enviro neo 48",
+    "Price": 3490
+  }${
+    "company": "vguard",
+    "itemGroup": "fan",
+    "groupName": "ceiling fan",
+    "itemName": "BLDC Enviro pro",
+    "Price": 3950
+  }${
+    "company": "vguard",
+    "itemGroup": "induction cooker",
+    "groupName": "induction cooker",
+    "itemName": "VIC 150",
+    "Price": 3350
+  }${
+    "company": "vguard",
+    "itemGroup": "induction cooker",
+    "groupName": "induction cooker",
+    "itemName": "VIC 35",
+    "Price": 2950
+  }${
+    "company": "vguard",
+    "itemGroup": "induction cooker",
+    "groupName": "induction cooker",
+    "itemName": "VIC 100",
+    "Price": 3250
+  }${
+    "company": "vyan",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "3 ltr",
+    "Price": 790
+  }${
+    "company": "vyan",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "5 ltr",
+    "Price": 1100
+  }${
+    "company": "vyan",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "10 ltr",
+    "Price": 1450
+  }${
+    "company": "vyan",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "12 ltr",
+    "Price": 1590
+  }${
+    "company": "vyan",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "3 ltr ss",
+    "Price": 1250
+  }${
+    "company": "vyan",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "5 ltr ss",
+    "Price": 1590
+  }${
+    "company": "vyan",
+    "itemGroup": "kuzhiyappam",
+    "groupName": "kuzhiyappam",
+    "itemName": "7 regular",
+    "Price": 475
+  }${
+    "company": "vyan",
+    "itemGroup": "kuzhiyappam",
+    "groupName": "kuzhiyappam",
+    "itemName": "7 special",
+    "Price": 530
+  }${
+    "company": "vyan",
+    "itemGroup": "kuzhiyappam",
+    "groupName": "kuzhiyappam",
+    "itemName": "7 jumbo",
+    "Price": 990
+  }${
+    "company": "vyan",
+    "itemGroup": "kuzhiyappam",
+    "groupName": "kuzhiyappam",
+    "itemName": "9 sepcial",
+    "Price": 685
+  }${
+    "company": "vyan",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan 240/3mm",
+    "Price": 595
+  }${
+    "company": "vyan",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan cute 200/3mm",
+    "Price": 430
+  }${
+    "company": "vyan",
+    "itemGroup": "frypan",
+    "groupName": "frypan",
+    "itemName": "frypan cute 200/3mm + lid",
+    "Price": 465
+  }${
+    "company": "vyan",
+    "itemGroup": "tawa",
+    "groupName": "tawa",
+    "itemName": "tawa 260/3mm",
+    "Price": 425
+  }${
+    "company": "vyan",
+    "itemGroup": "tawa",
+    "groupName": "tawa",
+    "itemName": "tawa 280/4mm",
+    "Price": 525
+  }${
+    "company": "vyan",
+    "itemGroup": "kadai",
+    "groupName": "kadai",
+    "itemName": "kadai cute 200",
+    "Price": 495
+  }${
+    "company": "vyan",
+    "itemGroup": "kadai",
+    "groupName": "kadai",
+    "itemName": "kadai 24",
+    "Price": 620
+  }${
+    "company": "vyan",
+    "itemGroup": "kadai",
+    "groupName": "kadai",
+    "itemName": "kadai 28",
+    "Price": 750
+  }${
+    "company": "vyan",
+    "itemGroup": "pathiri Tawa",
+    "groupName": "pathiri Tawa",
+    "itemName": "super 320/5mm",
+    "Price": 760
+  }${
+    "company": "vyan",
+    "itemGroup": "appachatty",
+    "groupName": "appachatty",
+    "itemName": "appachatty deep 23",
+    "Price": 450
+  }${
+    "company": "premix",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "3 ltr",
+    "Price": 625
+  }${
+    "company": "premix",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "5 ltr",
+    "Price": 790
+  }${
+    "company": "premix",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "3 ltr ss",
+    "Price": 1100
+  }${
+    "company": "premix",
+    "itemGroup": "cooker",
+    "groupName": "steel",
+    "itemName": "5 ltr ss",
+    "Price": 1450
+  }${
+    "company": "premix",
+    "itemGroup": "rice cooker",
+    "groupName": "steel",
+    "itemName": "1 kg",
+    "Price": 1550
+  }${
+    "company": "premix",
+    "itemGroup": "rice cooker",
+    "groupName": "steel",
+    "itemName": "1.5 kg",
+    "Price": 1690
+  }${
+    "company": "sukanya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "3 ltr swatch",
+    "Price": 650
+  }${
+    "company": "sukanya",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "5 ltr swatch",
+    "Price": 800
+  }
