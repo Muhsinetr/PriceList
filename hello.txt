@@ -1263,7 +1263,7 @@
 "itemGroup":"gasstove",
 "groupName":"glasstop",
 "itemName":"2Bmini nano",
-"Price":1500
+"Price":1950
 }${
 "company":"qbee",
 "itemGroup":"gasstove",
