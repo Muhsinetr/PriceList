@@ -656,7 +656,7 @@ let offerArray = [
     itemName: "flora pluse 2.0",
     Price: 4600
   },{
-    company: "L L M",
+    company: "l L M",
     itemGroup: "Rice cooker",
     groupName: "steel",
     itemName: "Rice cooker 1.5kg",
