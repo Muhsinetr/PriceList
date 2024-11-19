@@ -1,7 +1,7 @@
 self.addEventListener("install",e=>{
     e.waitUntil(
         caches.open("static").then(cache=>{
-            return cache.addAll(["./","style.css","down-button.png","up-button.png","iqbalLogoN515.png", "iqbalLogoN160.png"]);
+            return cache.addAll(["./","style.css","down-button.png","up-button.png","script.js","iqbalLogoN515.png", "iqbalLogoN160.png"]);
         })
     )
 })
