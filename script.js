@@ -169,9 +169,10 @@ function callLocalstroage() {
         setlocSTR();
         sortoutArray();
     } else {
-        let msg = prompt('Please tha password', "");
+        let msg = prompt('Please enter tha password', "");
         if (msg == "IQB-PKD") {
             localStorage.setItem("offerPascode", "vrs.0.11");
+            setlocSTR();
             sortoutArray();
         } else {
             document.write("No Data found");
