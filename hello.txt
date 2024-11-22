@@ -501,7 +501,7 @@
     "itemGroup": "cooker",
     "groupName": "steel",
     "itemName": "blueline 10 ltr",
-    "Price": 1450
+    "Price": 3650
   }${
     "company": "butterfly",
     "itemGroup": "cooker",
