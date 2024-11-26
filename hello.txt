@@ -1912,4 +1912,64 @@
     "groupName": "aluminium",
     "itemName": "5 ltr swatch",
     "Price": 800
+  }${
+    "company": "chakson",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "2 ltr swatch",
+    "Price": 1220
+  }${
+    "company": "chakson",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "3 ltr swatch",
+    "Price": 1250
+  }${
+    "company": "chakson",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "5 ltr swatch",
+    "Price": 1590
+  }${
+    "company": "chakson",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "6 ltr swatch",
+    "Price": 1850
+  }${
+    "company": "chakson",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "7 ltr swatch",
+    "Price": 2190
+  }${
+    "company": "chakson",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "8 ltr swatch",
+    "Price": 2350
+  }${
+    "company": "chakson",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "10 ltr swatch",
+    "Price": 2700
+  }${
+    "company": "chakson",
+    "itemGroup": "cooker",
+    "groupName": "aluminium",
+    "itemName": "12 ltr swatch",
+    "Price": 3100
+  }${
+    "company": "chakson",
+    "itemGroup": "nonstick",
+    "groupName": "appachatty",
+    "itemName": "appachatty",
+    "Price": 450
+  }${
+    "company": "chakson",
+    "itemGroup": "nonstick",
+    "groupName": "tawa",
+    "itemName": "tawa",
+    "Price": 490
   }
