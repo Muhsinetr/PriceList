@@ -1972,4 +1972,10 @@
     "groupName": "tawa",
     "itemName": "tawa",
     "Price": 490
+  }${
+    "company": "crompton",
+    "itemGroup": "mixi",
+    "groupName": "mixi",
+    "itemName": "qube 750w 3j",
+    "Price": 3250
   }
