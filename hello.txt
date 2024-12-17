@@ -1239,7 +1239,7 @@
     "itemGroup": "cooker",
     "groupName": "steel",
     "itemName": "5 ltr popular ss",
-    "Price": 2300
+    "Price": 2790
   }${
     "company": "gflame",
     "itemGroup": "gas stove",
